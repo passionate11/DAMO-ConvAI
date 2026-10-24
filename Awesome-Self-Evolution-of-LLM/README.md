@@ -154,6 +154,7 @@ LLMs may improve the quality and reliability of their outputs through experience
 - Teaching Large Language Models to Self-Debug.[[paper](https://arxiv.org/abs/2304.05128)]
 - Iterative Translation Refinement with Large Language Models[[paper](https://arxiv.org/abs/2306.03856)]
 - Self-Verification Improves Few-Shot Clinical Information Extraction.[[paper](https://arxiv.org/abs/2306.00024)][[code](https://github.com/microsoft/clinical-self-verification)]
+- Translate-and-Revise: Boosting Large Language Models for Constrained Translation.[[paper](https://aclanthology.org/2024.ccl-1.82/)]
 
 # Updating
 During updating, LLMs leverage the refined experiences to improve model performance. We divide these approaches into in-weight learning, which involves updates to model weights, and in-context learning, which involves updates to external or working memory.
